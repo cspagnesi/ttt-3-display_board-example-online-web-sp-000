@@ -4,7 +4,7 @@
   puts "-----------"
   puts "   |   |   "
 
-001:0 > def display_board
+def display_board
 002:1 >     puts "A Tic Tac Toe Board"
 003:1 >   end
 => :display_board
